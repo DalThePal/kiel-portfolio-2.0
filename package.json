@@ -17,9 +17,14 @@
   "dependencies": {
     "babel-plugin-styled-components": "^2.0.7",
     "gatsby": "^4.24.4",
+    "gatsby-plugin-root-import": "^2.0.8",
     "gatsby-plugin-styled-components": "^5.24.0",
+    "gatsby-plugin-svgr": "^3.0.0-beta.0",
+    "gatsby-source-filesystem": "^4.24.0",
+    "gsap": "npm:@gsap/shockingly@^3.11.3",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "styled-components": "^5.3.6"
+    "styled-components": "^5.3.6",
+    "the-new-css-reset": "^1.7.3"
   }
 }
